@@ -1,2 +1,3 @@
 # testRepo
  local path
+ testests
